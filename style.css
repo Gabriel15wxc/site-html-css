@@ -1,0 +1,75 @@
+a {
+ color:black;
+}
+.em{
+color: #A5B4FC;
+font-style:normal;
+}
+
+
+h1{
+    font-size:3.5em;
+    color:#A5B4FC;
+    font-style:"Montserrat";
+}
+
+p{
+    font-size:1.1em;
+    font-style:"Manrope"
+
+}
+
+a{
+    text-decoration:none;
+    font-size:1em;
+    font-style:"manrope"; 
+}
+
+.div{
+    background-color:#f7fafa;
+
+}
+
+body{
+    background-color:#1F2039;
+
+}
+
+a{
+    color:#000000;
+}
+
+p,ol,ul,h2{
+    color:#F9F8FF;
+}
+
+.cta {
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-style:"Manrope";
+    color:#f7fafa;
+    border-radius:50px;
+}
+
+.div{
+    border-right:1px solid #8e86b5;
+    border-bottom:1px solid #8e86b5;
+
+
+}
+
+a:hover{
+        text-decoration:underline;
+
+
+}
+
+.cta:hover{
+        background:linear-gradient(#696484,#8788BA);
+
+
+}
+a:hover{
+
+    opacity: 0.5;
+
+}
